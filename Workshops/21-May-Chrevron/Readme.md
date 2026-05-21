@@ -118,4 +118,7 @@ Enfócate en aportar insights estratégicos, no solo descripción de hechos.
 
 ---
 
-# MOdilo 3 : Creacion de Agentes
+# Modilo 3 : Creacion de Agentes
+
+* https://github.com/estebancalabria/MS-4019/blob/main/03-Create%20Agents/Writting-Instructions.md
+* https://github.com/estebancalabria/MS-4019/blob/main/03-Create%20Agents/Ai-Ready-Documents.md
